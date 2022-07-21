@@ -4,3 +4,4 @@ mediapipe
 numpy
 face-recognition
 Pillow
+opencv-python-headles
