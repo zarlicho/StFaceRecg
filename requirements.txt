@@ -1,6 +1,6 @@
-streamlit
-opencv-python
-mediapipe
-numpy
-face-recognition
-Pillow
+streamlit==1.7.0
+opencv-python==4.5.5.64
+mediapipe==0.8.10
+numpy==1.22.3
+face-recognition==1.3.0
+Pillow9.0.1
