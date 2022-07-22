@@ -6,3 +6,4 @@ flask-cors
 pyforest
 face-recognition==1.3.0
 face-recognition-models
+dlib==19.24.0
